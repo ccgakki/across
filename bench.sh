@@ -89,6 +89,7 @@ speed() {
     speed_test '44176'  'HenanZHENGZ   CM'
     speed_test '16398' 'Guiyang   CM'
     speed_test '34035'  'Huainan   CM'
+    speed_test '25858' 'Beijing     CM'
     speed_test '25637'  'Shanghai   CM'
     speed_test '6611'   'Guangzhou  CM'
     speed_test '32155' 'Hongkong   CN'
