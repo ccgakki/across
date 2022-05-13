@@ -94,8 +94,10 @@ speed() {
     speed_test '25637'  'Shanghai   CM'
     speed_test '6611'   'Guangzhou  CM'
     speed_test '32155' 'Hongkong   CN'
-    speed_test '5935' 'Singapore  SG'
-    speed_test '15047' 'Tokyo      JP'
+    speed_test '41358' 'Singapore  SG'
+    speed_test '21118' 'Tokyo      JP'
+    speed_test '39720' 'USA        JP'
+    
 }
 
 io_test() {
