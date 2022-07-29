@@ -78,6 +78,11 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
+    speed_test '35445' 'Hongkong   CN'
+    speed_test '34555' 'Hongkong   CN'
+    speed_test '5935' 'Singapore  SG'
+    speed_test '21118' 'Tokyo      JP'
+    speed_test '39720' 'USA        US'
     speed_test '3633'  'Shanghai   CT'
     speed_test '17145' 'Hefei  CT'
     speed_test '5317' 'Jiangsu  CT'
@@ -93,10 +98,6 @@ speed() {
     speed_test '25858' 'Beijing     CM'
     speed_test '17320'  'Jiangsu   CM'
     speed_test '16171'   'Fuzhou  CM'
-    speed_test '32155' 'Hongkong   CN'
-    speed_test '5935' 'Singapore  SG'
-    speed_test '21118' 'Tokyo      JP'
-    speed_test '39720' 'USA        US'
     
 }
 
