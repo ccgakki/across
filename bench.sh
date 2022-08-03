@@ -94,8 +94,8 @@ speed() {
     speed_test '13704'  'Nanjing   CU'
     speed_test '44176'  'HenanZHENGZ   CM'
     speed_test '16398' 'Guiyang   CM'
-    speed_test '34035'  'Huainan   CM'
-    speed_test '25858' 'Beijing     CM'
+    speed_test '16145'  'Gansu   CM'
+    speed_test '15863' 'Guangxi     CM'
     speed_test '17320'  'Jiangsu   CM'
     speed_test '16171'   'Fuzhou  CM'
     
